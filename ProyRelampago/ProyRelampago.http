@@ -1,0 +1,6 @@
+@ProyRelampago_HostAddress = http://localhost:5093
+
+GET {{ProyRelampago_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
